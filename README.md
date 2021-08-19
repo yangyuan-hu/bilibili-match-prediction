@@ -12,7 +12,7 @@ bilibili-match-prediction
 
 **仓库地址：[JunzhouLiu/bilibili-match-prediction](https://github.com/JunzhouLiu/bilibili-match-prediction)**
 
-**请不要滥用相关 API，让我们一起爱护 B 站 ❤**
+**请不要滥用相关 API，让我们一起爱护 B 站 **
 
 **请各位务必遵守 Github 服务条款。不要滥用 Actions 工作流。**
 
